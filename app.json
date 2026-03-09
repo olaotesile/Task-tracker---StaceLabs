@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testtrackerstacelabs",
-    "slug": "testtrackerstacelabs",
+    "name": "Task Tracker",
+    "slug": "Task Tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
